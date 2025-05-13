@@ -5,4 +5,3 @@
 <img width="1166" alt="iShot_2025-05-13_15 25 15" src="https://github.com/user-attachments/assets/3984bbda-5798-4bb4-91fd-c9b71d3b2616" />
 ![screenshot-20250513-152247](https://github.com/user-attachments/assets/defdf5c5-6a2c-466d-9b82-ba71540b18cf)
 ![screenshot-20250513-152148](https://github.com/user-attachments/assets/53350fb0-517d-4d85-b711-029ee1a2eb2c)
-<img width="1079" alt="iShot_2025-05-12_20 15 22" src="https://github.com/user-attachments/assets/008c969b-3712-478b-b11c-5f7f1ec62103" />
